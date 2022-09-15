@@ -1,6 +1,8 @@
 import io
 import base64
 import numpy as np
+# from PIL import Image
+# from pillow import Image
 from PIL import Image
 import pickle
 from keras.preprocessing.image import img_to_array
